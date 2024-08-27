@@ -70,3 +70,19 @@
 //     const hasil = Math.floor(Math.random() * 6) + 1;
 //     console.log(hasil);
 // }
+
+// // Function bernilai balik function
+// function hasilnyaAdalahFunction() {
+//     const rand = Math.random();
+
+//     if (rand > 0.1) {
+        
+//         return function() {
+//             console.log('Selamat angkanya lebih besar');
+//         };
+
+//     } else {
+
+//         return
+//     }
+// }
